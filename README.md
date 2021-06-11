@@ -1,5 +1,5 @@
 # Tiny File Manager
-
+# 国外版的用起来不太爽打卡网页及其的慢。我把所有的网页需要加载的资源全部转换成本地加载，极大的提高了加载速度。。。。
 [![Live demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg?style=flat-square)](https://tinyfilemanager.github.io/demo/)
 [![Live demo](https://img.shields.io/badge/Help-Docs-lightgrey.svg?style=flat-square)](https://github.com/prasathmani/tinyfilemanager/wiki)
 [![GitHub Release](https://img.shields.io/github/release/qubyte/rubidium.svg?style=flat-square)](https://github.com/prasathmani/tinyfilemanager/releases)
